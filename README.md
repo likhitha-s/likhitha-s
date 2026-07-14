@@ -6,12 +6,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.datascienceportfol.io/LikhithaSrinivas)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@likhitha_s)
 
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin 
-
-<a href="https://linkedin.com/in/likhitha-srinivas"><img src="PASTE_DIRECT_LINK_HERE" height="36"></a>
-<a href="https://www.datascienceportfol.io/LikhithaSrinivas"><img src="https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white" height="36"></a>
-<a href="https://medium.com/@likhitha_s"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" height="36"></a>
-
 </div>
 
 ## About
