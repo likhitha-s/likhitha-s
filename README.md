@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 
 # Likhitha Srinivas
 
-Business Analyst | Technical Product & Program Management | Enterprise Systems & Data | CAPM | NC State MEM '25
-
-[LinkedIn](https://linkedin.com/in/likhitha-srinivas) · [Portfolio](https://www.datascienceportfol.io/LikhithaSrinivas) · [Medium](https://medium.com/@likhitha_s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhitha-srinivas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white)](https://www.datascienceportfol.io/LikhithaSrinivas)
+[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@likhitha_s)
 
 ## About
 
@@ -30,6 +30,12 @@ My work sits at the intersection of engineering and business. I coordinate enter
 Documenting graduate coursework and capstone projects in this GitHub, covering optimization modeling, financial and NPV analysis, product requirements, and enterprise risk assessment. Also volunteering as a Program Manager with Saayam For All, supporting the Gen AI team.
 
 ## Technical Toolkit
+
+![SQL](https://img.shields.io/badge/SQL-000000?style=flat&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat&logo=python&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-000000?style=flat&logo=tableau&logoColor=white)
+![SAP](https://img.shields.io/badge/SAP-000000?style=flat&logo=sap&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-000000?style=flat&logo=microsoftexcel&logoColor=white)
 
 **Core:** SQL, Python, Tableau, Stakeholder Management
 **Program/Risk:** PMO Governance, Root Cause Analysis, Change Management
