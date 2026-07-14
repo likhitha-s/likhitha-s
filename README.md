@@ -1,8 +1,12 @@
+<div align="center">
+
 # Likhitha Srinivas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhitha-srinivas)
-[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=flat&logo=googlechrome&logoColor=white)](https://www.datascienceportfol.io/LikhithaSrinivas)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@likhitha_s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/likhitha-srinivas)
+[![Portfolio](https://img.shields.io/badge/Portfolio-14B8A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.datascienceportfol.io/LikhithaSrinivas)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@likhitha_s)
+
+</div>
 
 ## About
 
