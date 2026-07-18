@@ -24,8 +24,8 @@ Documenting graduate coursework and capstone projects in this GitHub, covering o
 ![SAP](https://img.shields.io/badge/SAP-000000?style=flat&logo=sap&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-000000?style=flat&logo=microsoftexcel&logoColor=white)
 
-**Core:** SQL, Python, Tableau, Stakeholder Management
-**Program/Risk:** PMO Governance, Root Cause Analysis, Change Management
+**Core:** SQL, Python, Tableau, Stakeholder Management <br>
+**Program/Risk:** PMO Governance, Root Cause Analysis, Change Management <br>
 **Modeling/Ops:** Mixed-Integer Linear Programming (MILP), NPV Modeling, Scenario Analysis
 **Product:** MoSCoW Prioritization
 **Systems:** Manufacturing Execution Systems (MES), SAP, Oracle ERP
