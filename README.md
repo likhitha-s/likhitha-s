@@ -26,9 +26,9 @@ Documenting graduate coursework and capstone projects in this GitHub, covering o
 
 **Core:** SQL, Python, Tableau, Stakeholder Management <br>
 **Program/Risk:** PMO Governance, Root Cause Analysis, Change Management <br>
-**Modeling/Ops:** Mixed-Integer Linear Programming (MILP), NPV Modeling, Scenario Analysis
-**Product:** MoSCoW Prioritization
-**Systems:** Manufacturing Execution Systems (MES), SAP, Oracle ERP
+**Modeling/Ops:** Mixed-Integer Linear Programming (MILP), NPV Modeling, Scenario Analysis <br>
+**Product:** MoSCoW Prioritization <br>
+**Systems:** Manufacturing Execution Systems (MES), SAP, Oracle ERP <br>
 **Data Science:** Scikit-learn, Classification Modeling
 
 ## Featured Projects
