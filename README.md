@@ -26,7 +26,3 @@ My work sits at the intersection of engineering and business. I coordinate enter
 **Product:** MoSCoW Prioritization <br>
 **Systems:** Manufacturing Execution Systems (MES), SAP, Oracle ERP <br>
 **Data Science:** Scikit-learn, Classification Modeling
-
-## Featured Projects
-
-*Coming soon: repositories for each graduate project, currently in progress.*
