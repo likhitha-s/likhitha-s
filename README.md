@@ -2,9 +2,7 @@
 
 # Likhitha Srinivas
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge)](https://linkedin.com/in/likhitha-srinivas) &nbsp;•&nbsp; 
-[![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge)](https://www.datascienceportfol.io/LikhithaSrinivas) &nbsp;•&nbsp; 
-[![Medium](https://img.shields.io/badge/Medium-1A1A2E?style=for-the-badge)](https://medium.com/@likhitha-s)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1A1A2E?style=for-the-badge)](https://linkedin.com/in/likhitha-srinivas) ![](assets/dot_separator.png) [![Portfolio](https://img.shields.io/badge/Portfolio-1A1A2E?style=for-the-badge)](https://www.datascienceportfol.io/LikhithaSrinivas) ![](assets/dot_separator.png) [![Medium](https://img.shields.io/badge/Medium-1A1A2E?style=for-the-badge)](https://medium.com/@likhitha-s)
 
 </div>
 
