@@ -8,6 +8,8 @@
 
 </div>
 
+![banner](assets/github_banner.png)
+
 ## About
 
 My work sits at the intersection of engineering and business. I coordinate enterprise systems, build the analytics layer behind decisions, and translate ambiguous requirements into structured, engineering-ready plans. Background spans manufacturing execution systems, operations research modeling, product requirements documentation, and enterprise risk and governance frameworks.
